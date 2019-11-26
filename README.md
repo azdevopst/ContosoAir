@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sscazdevops/Marvel/_apis/build/status/azdevopst.ContosoAir?branchName=master)](https://dev.azure.com/sscazdevops/Marvel/_build/latest?definitionId=2&branchName=master)
 
 
 # Microsoft.Github CI Demo
